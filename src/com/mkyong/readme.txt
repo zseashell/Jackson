@@ -1,0 +1,1 @@
+http://www.mkyong.com/java/how-to-convert-java-object-to-from-json-jackson/
